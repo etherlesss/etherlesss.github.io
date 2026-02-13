@@ -1,0 +1,208 @@
+{
+    "navbar" : {
+        "experience": "Experience",
+        "projects": "Projects",
+        "stack": "Stack",
+        "contact": "Contact"
+    },
+    "intro": {
+        "greeting": "Hi, I'm Joaquín Llantén",
+        "role": "Full Stack Developer",
+        "description": "Full Stack Developer with experience creating web, mobile, and SaaS applications. Ensuring quality, efficiency, and ease of use in every project."
+    },
+    "slogan": "Always keeping it simple.",
+    "experience" : {
+        "title": "Experience",
+        "experiences": [
+            {
+                "role": "Data Processing Specialist",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Jul 2025",
+                "end": "Aug 2025",
+                "bulletpoints": [
+                    "Digitalized physical records, enabling enterprise-level data availability.",
+                    "Collaborated with different departments to ensure data integrity.",
+                    "Improved traceability by enriching existing records with information."
+                ],
+                "technologies": [
+                    "None"
+                ]
+            },
+            {
+                "role": "Android Developer",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Feb 2025",
+                "end": "May 2025",
+                "bulletpoints": [
+                    "Developed a mobile application, back-office web system and a database for order-taking across food outlets, updated to support dynamic network-level configuration and operation.",
+                    "Conducted user training sessions, ensuring easy and trouble-free adoption.",
+                    "Optimized the order-taking process, ensuring usability for users of all ages and enhancing the first system iteration."
+                ],
+                "technologies": [
+                    "Kotlin",
+                    "Jetpack Compose",
+                    "Vue",
+                    "TypeScript",
+                    "MySQL",
+                    "Figma",
+                    "JIRA"
+                ]
+            },
+            {
+                "role": "Full Stack Developer",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Dec 2024",
+                "end": "Feb 2025",
+                "bulletpoints": [
+                    "Developed a web-based staff management platform, including budget projections and a database.",
+                    "Collaborated with different departments, understanding information flow among staff.",
+                    "Reduced calculation errors and improved information availability across all departments."
+                ],
+                "technologies": [
+                    "Vue",
+                    "TypeScript",
+                    "MySQL",
+                    "Figma",
+                    "JIRA"
+                ]
+            },
+            {
+                "role": "Full Stack Developer",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Mar 2024",
+                "end": "Aug 2024",
+                "bulletpoints": [
+                    "Developed a mobile application for taking orders across food outlets, fully offline on the device.",
+                    "Resolved the issues of the previous system, improving the way orders are taken."
+                ],
+                "technologies": [
+                    "Kotlin",
+                    "Jetpack Compose",
+                    "Figma",
+                    "JIRA"
+                ]
+            },
+            {
+                "role": "Front End Developer",
+                "company": "Servcon Obras Civiles",
+                "start": "Dec 2023",
+                "end": "Feb 2024",
+                "bulletpoints": [
+                    "Developed a portfolio website for the company.",
+                    "Enhanced the company’s visibility by providing information on projects carried out, increasing its customer base."
+                ],
+                "technologies": [
+                    "React",
+                    "JavaScript"
+                ]
+            }
+
+        ]
+    },
+    "projects" : {
+        "title": "Projects",
+        "projects": [
+            {
+                "name": "+Lectura",
+                "description": "Developed a web-based book recommendation platform using Machine Learning, achieving 80% accuracy based on user behavior. It also served as a platform for sharing among users and saving reading lists.",
+                "tag": "Academic",
+                "technologies": [
+                    "Vue",
+                    "TypeScript",
+                    "Python"
+                ],
+                "link": "https://github.com/etherlesss/MasLectura"
+            },
+            {
+                "name": "Album Showcase",
+                "description": "Music portfolio showcasing my favorite albums with song previews using Spotify embeds.",
+                "tag": "Personal",
+                "technologies": [
+                    "Vue",
+                    "JavaScript",
+                    "Vercel"
+                ],
+                "link": "https://album-showcase.vercel.app/"
+            },
+            {
+                "name": "RotMGRPC",
+                "description": "Discord extension for the game Realm of the Mad God, allowing players to share real-time information about their character through platform activities. The extension reached over 200 users.",
+                "tag": "Personal",
+                "technologies": [
+                    "Python"
+                ],
+                "link": "None"
+            }
+        ]
+    },
+    "education": {
+        "title": "Education",
+        "studies": [
+            {
+                "degree": "Computer Science Engineering",
+                "institution": "Pontificia Universidad Católica de Valparaíso",
+                "start": "2021",
+                "end": "2025"
+            }
+        ]
+    },
+    "stack": {
+        "title": "Tech Stack",
+        "skills": {
+            "langs" : {
+                "title": "Languages",
+                "items": [
+                    "Kotlin",
+                    "Java",
+                    "TypeScript",
+                    "JavaScript",
+                    "Python",
+                    "C",
+                    "Go"
+                ]
+            },
+            "frameworks": {
+                "title": "Frameworks",
+                "items": [
+                    "Vue",
+                    "Nuxt",
+                    "React",
+                    "TailwindCSS",
+                    "BootStrap",
+                    "Express",
+                    "FastAPI",
+                    "Flask",
+                    "Jetpack Compose"
+                ]
+            },
+            "databases": {
+                "title": "Databases",
+                "items": [
+                    "MySQL",
+                    "PostgreSQL",
+                    "MongoDB"
+                ]
+            },
+            "tools": {
+                "title": "Tools",
+                "items": [
+                    "Git",
+                    "Docker",
+                    "VS Code",
+                    "GitHub",
+                    "Vercel",
+                    "Android Studio",
+                    "NetBeans",
+                    "Figma",
+                    "MySQL Workbench",
+                    "JIRA"
+                ]
+            }
+        }
+    },
+    "footer": {
+        "built_with": "Built using Vue, TypeScript, Tailwind CSS and Astro.",
+        "linkedin": "https://www.linkedin.com/in/joaquin-llanten",
+        "copyright": "© 2026 Joaquín Llantén. All rights reserved."
+    }
+}

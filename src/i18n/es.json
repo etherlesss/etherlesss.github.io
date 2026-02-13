@@ -1,0 +1,208 @@
+{
+    "navbar" : {
+        "experience": "Experiencia",
+        "projects": "Proyectos",
+        "stack": "Stack",
+        "contact": "Contacto"
+    },
+    "intro": {
+        "greeting": "Hola, soy Joaquín Llantén",
+        "role": "Desarrollador Full Stack",
+        "description": "Desarrollador Full Stack con experiencia creando aplicaciones web, móviles y SaaS. Asegurando calidad, eficiencia y fácilidad de uso en cada proyecto."
+    },
+    "slogan": "Always keeping it simple.",
+    "experience" : {
+        "title": "Experiencia",
+        "experiences": [
+            {
+                "role": "Especialista en Procesamiento de Datos",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Jul 2025",
+                "end": "Ago 2025",
+                "bulletpoints": [
+                    "Digitalicé registros físicos, permitiendo entregar disponibilidad de datos a nivel empresarial.",
+                    "Colaboré con distintos departamentos para asegurar la integridad de los datos.",
+                    "Mejoré la trazabilidad, nutriendo registros existentes con información adicional."
+                ],
+                "technologies": [
+                    "None"
+                ]
+            },
+            {
+                "role": "Desarrollador Android",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Feb 2025",
+                "end": "May 2025",
+                "bulletpoints": [
+                    "Desarrollé una aplicación móvil, sitio web administrativo y base de datos para la toma de pedidos en puntos de venta gastronómicos, rediseñando el sistema previo.",
+                    "Realicé capacitaciones a usuarios finales, asegurando una fácil integración libre de problemas.",
+                    "Optimicé el proceso de toma de pedidos, asegurando facilidad de uso para todas las edades y mejorando la primera iteración del sistema."
+                ],
+                "technologies": [
+                    "Kotlin",
+                    "Jetpack Compose",
+                    "Vue",
+                    "TypeScript",
+                    "MySQL",
+                    "Figma",
+                    "JIRA"
+                ]
+            },
+            {
+                "role": "Desarrollador Full Stack",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Dic 2024",
+                "end": "Feb 2025",
+                "bulletpoints": [
+                    "Desarrollé una plataforma web de gestión de personal, incluyendo proyecciones presupuestarias y base de datos.",
+                    "Colaboré con distintos departamentos, comprendiendo la forma en que se comparte la información entre el personal.",
+                    "Reduje errores de cálculos y mejoré la disponibilidad de la información a todos los departamentos."
+                ],
+                "technologies": [
+                    "Vue",
+                    "TypeScript",
+                    "MySQL",
+                    "Figma",
+                    "JIRA"
+                ]
+            },
+            {
+                "role": "Desarrollador Full Stack",
+                "company": "Club Naval de Campo las Salinas",
+                "start": "Mar 2024",
+                "end": "Ago 2024",
+                "bulletpoints": [
+                    "Desarrollé una aplicación móvil para la toma de pedidos en puntos de venta gastronómicos, completamente local al dispositivo.",
+                    "Remedié los problemas del sistema anterior en su totalidad, mejorando la forma en que se toman los pedidos, optimizando el tiempo."
+                ],
+                "technologies": [
+                    "Kotlin",
+                    "Jetpack Compose",
+                    "Figma",
+                    "JIRA"
+                ]
+            },
+            {
+                "role": "Desarrollador Front end",
+                "company": "Servcon Obras Civiles",
+                "start": "Dic 2023",
+                "end": "Feb 2024",
+                "bulletpoints": [
+                    "Desarrollé un sitio web de portafolio para la empresa.",
+                    "Facilité la visibilidad de la empresa, entregando información completa de proyectos realizados por esta, aumentando su clientela."
+                ],
+                "technologies": [
+                    "React",
+                    "JavaScript"
+                ]
+            }
+
+        ]
+    },
+    "projects" : {
+        "title": "Proyectos",
+        "projects": [
+            {
+                "name": "+Lectura",
+                "description": "Proyecto académico para recomendar libros utilizando Machine Learning para obtener recomendaciones personalizadas para cada usuario según sus gustos y preferencias. A su vez servía como plataforma para compartir entre usuarios y guardar listas de lectura.",
+                "tag": "Académico",
+                "technologies": [
+                    "Vue",
+                    "TypeScript",
+                    "Python"
+                ],
+                "link": "https://github.com/etherlesss/MasLectura"
+            },
+            {
+                "name": "Album Showcase",
+                "description": "Proyecto personal a modo de portafolio musical, donde exhibo mis álbumes favoritos con vistas previas de canciones utilizando embeds de Spotify.",
+                "tag": "Personal",
+                "technologies": [
+                    "Vue",
+                    "JavaScript",
+                    "Vercel"
+                ],
+                "link": "https://album-showcase.vercel.app/"
+            },
+            {
+                "name": "RotMGRPC",
+                "description": "Extensión de Discord para el juego Realm of the Mad God, permitiendo a los jugadores compartir información de su personaje en tiempo real a través de actividades de la plataforma. La extensión alcanzó más de 200 usuarios.",
+                "tag": "Personal",
+                "technologies": [
+                    "Python"
+                ],
+                "link": "None"
+            }
+        ]
+    },
+    "education": {
+        "title": "Educación",
+        "studies": [
+            {
+                "degree": "Ingeniero de Ejecución en Informática",
+                "institution": "Pontificia Universidad Católica de Valparaíso",
+                "start": "2021",
+                "end": "2025"
+            }
+        ]
+    },
+    "stack": {
+        "title": "Stack Tecnológico",
+        "skills": {
+            "langs" : {
+                "title": "Lenguajes",
+                "items": [
+                    "Kotlin",
+                    "Java",
+                    "TypeScript",
+                    "JavaScript",
+                    "Python",
+                    "C",
+                    "Go"
+                ]
+            },
+            "frameworks": {
+                "title": "Frameworks",
+                "items": [
+                    "Vue",
+                    "Nuxt",
+                    "React",
+                    "TailwindCSS",
+                    "BootStrap",
+                    "Express",
+                    "FastAPI",
+                    "Flask",
+                    "Jetpack Compose"
+                ]
+            },
+            "databases": {
+                "title": "Bases de Datos",
+                "items": [
+                    "MySQL",
+                    "PostgreSQL",
+                    "MongoDB"
+                ]
+            },
+            "tools": {
+                "title": "Herramientas",
+                "items": [
+                    "Git",
+                    "Docker",
+                    "VS Code",
+                    "GitHub",
+                    "Vercel",
+                    "Android Studio",
+                    "NetBeans",
+                    "Figma",
+                    "MySQL Workbench",
+                    "JIRA"
+                ]
+            }
+        }
+    },
+    "footer": {
+        "built_with": "Hecho con Vue, TypeScript, Tailwind CSS y Astro.",
+        "linkedin": "https://www.linkedin.com/in/joaquin-llanten",
+        "copyright": "© 2026 Joaquín Llantén. Todos los derechos reservados."
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "etherlesss.github.io",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "astro": "^5.17.1",
+    "tailwindcss": "^4.1.18",
+    "vue": "^3.5.27",
+    "vue-i18n": "^11.2.8"
+  },
+  "devDependencies": {
+    "@astrojs/vue": "^5.1.4",
+    "@iconify/vue": "^5.0.0"
+  }
+}
