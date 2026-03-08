@@ -15,21 +15,21 @@
         "title": "Experience",
         "experiences": [
             {
-                "role": "Data Processing Specialist",
+                "role": "ETL Specialist",
                 "company": "Club Naval de Campo las Salinas",
                 "start": "Jul 2025",
                 "end": "Aug 2025",
                 "bulletpoints": [
-                    "Digitalized physical records, enabling enterprise-level data availability.",
+                    "Digitalized physical records, performing ETL processes to integrate data into organizational databases.",
                     "Collaborated with different departments to ensure data integrity.",
-                    "Improved traceability by enriching existing records with information."
+                    "Improved traceability, strengthening internal management and analysis processes."
                 ],
                 "technologies": [
                     "None"
                 ]
             },
             {
-                "role": "Android Developer",
+                "role": "Full Stack Developer",
                 "company": "Club Naval de Campo las Salinas",
                 "start": "Feb 2025",
                 "end": "May 2025",

@@ -15,27 +15,27 @@
         "title": "Experiencia",
         "experiences": [
             {
-                "role": "Especialista en Procesamiento de Datos",
+                "role": "Especialista en ETL",
                 "company": "Club Naval de Campo las Salinas",
                 "start": "Jul 2025",
                 "end": "Ago 2025",
                 "bulletpoints": [
-                    "Digitalicé registros físicos, permitiendo entregar disponibilidad de datos a nivel empresarial.",
+                    "Digitalicé y estructuré registros físicos realizando tareas ETL, integrando información en bases de datos organizacionales.",
                     "Colaboré con distintos departamentos para asegurar la integridad de los datos.",
-                    "Mejoré la trazabilidad, nutriendo registros existentes con información adicional."
+                    "Mejoré la trazabilidad, fortaleciendo los procesos internos de gestión y análisis."
                 ],
                 "technologies": [
                     "None"
                 ]
             },
             {
-                "role": "Desarrollador Android",
+                "role": "Desarrollador Full Stack",
                 "company": "Club Naval de Campo las Salinas",
                 "start": "Feb 2025",
                 "end": "May 2025",
                 "bulletpoints": [
-                    "Desarrollé una aplicación móvil, sitio web administrativo y base de datos para la toma de pedidos en puntos de venta gastronómicos, rediseñando el sistema previo.",
-                    "Realicé capacitaciones a usuarios finales, asegurando una fácil integración libre de problemas.",
+                    "Desarrollé una aplicación móvil, panel administrativo y base de datos para la toma de pedidos en puntos de venta gastronómicos, rediseñando el sistema previo.",
+                    "Capacité a usuarios finales en la adopción de la plataforma, asegurando una transición fluída.",
                     "Optimicé el proceso de toma de pedidos, asegurando facilidad de uso para todas las edades y mejorando la primera iteración del sistema."
                 ],
                 "technologies": [
